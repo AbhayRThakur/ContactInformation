@@ -11,9 +11,9 @@ Compatiblity -
   D. Best viewed in Google Chrome
   
 To make this project work, please follow the below mentioned process -
-  a. UnZip the "Project and User SQL.zip"
+  a. UnZip the "Project and SQL.zip"
   b. Unzip the remaining files in a folder named Package as it contains all the project package files.
-  c. Open the "Project and User SQL" folder and execute the User.sql file on your local database.
+  c. Open the "Project and SQL" folder and execute the User.sql file on your local database.
   d. Open the solution file with VS version selector.
   e. Select the browser to run as Google Chrome.
   f. You may view the project now, it's ready to use.
